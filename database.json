@@ -2,8 +2,15 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "INDONESIA_II",
-  "total": 0,
-  "data": [],
-  "lastSync": "2026-05-03T06:40:08.682Z",
-  "note": "Genre ini masih kosong, isi di Google Sheet"
+  "total": 1,
+  "data": [
+    {
+      "NAMAE": "c1JRXxFVWFBc",
+      "COVER": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfBgcWCw0dT3UCfU9xeH9qRBpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAgIWDlAdeWdGUksARUBqXxpBV14=",
+      "LINK": "AwUFAAALCgABAgQDAwo="
+    }
+  ],
+  "lastSync": "2026-05-09T22:47:00.962Z",
+  "note": ""
 }
